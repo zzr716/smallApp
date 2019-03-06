@@ -14,7 +14,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.6.1",
 	"appid": "wx7fc5702e6a02ff5e",
-	"projectname": "smallapp",
+	"projectname": "smallApp",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
